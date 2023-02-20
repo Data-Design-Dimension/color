@@ -2,6 +2,20 @@
 
 experiments
 
+<a href="https://www.pexels.com">Photos provided by Pexels</a>
+
+<!-- or show our white logo -->
+
+<a href="https://www.pexels.com">
+  <img src="https://images.pexels.com/lib/api/pexels-white.png" />
+</a>
+
+<!-- or show our black logo -->
+
+<a href="https://www.pexels.com">
+  <img src="https://images.pexels.com/lib/api/pexels.png" />
+</a>
+
 ### General Disclaimer
 This work is completed under the limited liability company Data, Design & Daughters LLC doing business as Data Design Dimension by Kathryn Hurchla with all rights reserved.
 
