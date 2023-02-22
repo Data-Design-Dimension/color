@@ -2,6 +2,10 @@
 
 experiments
 
+Mostly working in the color_quantization_from_url.ipynb notebook. Go there to see stuff.
+
+Maybe going back to HEIC experiments to fuss with some photos from iCloud later.
+
 <a href="https://www.pexels.com">Photos provided by Pexels</a>
 
 <!-- or show our white logo -->
